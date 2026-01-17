@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samar2341&layout=compact&langs_count=5&theme=transparent&hide_border=true"
+    src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samar2341)](https://github.com/samar2341/github-readme-stats)"
     alt="Top Languages"
     height="165"
   />
